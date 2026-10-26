@@ -18,7 +18,7 @@
             print 'ご意見ありがとうございました<br>';
             print '頂いたご意見『';
             print $goiken;
-            print ']<br>';
+            print '』<br>';
             print $email;
             print 'にメールを送りましたのでご確認ください。';
         ?>
